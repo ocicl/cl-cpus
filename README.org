@@ -1,0 +1,10 @@
+* cl-cpus
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://git.towernet.dev/projects/cl-cpus.git   |
+| commit  |   |
+| systems | cl-cpus |
+|---------+-------------------------------------------|
+
