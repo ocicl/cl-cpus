@@ -2,9 +2,8 @@
 
 
 
-71c2ef1---------+-------------------------------------------|
-71c2ef1 source  | git:https://git.towernet.dev/projects/cl-cpus.git   |
-71c2ef1 commit  |   |
-71c2ef1 systems | cl-cpus |
-71c2ef1---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://git.towernet.dev/projects/cl-cpus.git |
+| commit  | 71c2ef1                                           |
+| systems | cl-cpus                                           |
+|---------+---------------------------------------------------|
